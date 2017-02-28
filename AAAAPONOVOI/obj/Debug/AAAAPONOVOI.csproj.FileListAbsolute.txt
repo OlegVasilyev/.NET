@@ -1,0 +1,10 @@
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\bin\Debug\AAAAPONOVOI.exe.config
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\bin\Debug\AAAAPONOVOI.exe
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\bin\Debug\AAAAPONOVOI.pdb
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\obj\Debug\AAAAPONOVOI.Properties.Resources.resources
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\obj\Debug\AAAAPONOVOI.csproj.GenerateResource.Cache
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\obj\Debug\AAAAPONOVOI.exe
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\obj\Debug\AAAAPONOVOI.pdb
+c:\users\олег\documents\visual studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\obj\Debug\AAAAPONOVOI.MainForm.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\obj\Debug\AAAAPONOVOI.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\AAAAPONOVOI\AAAAPONOVOI\obj\Debug\AAAAPONOVOI.Login.resources
